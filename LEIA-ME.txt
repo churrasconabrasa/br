@@ -1,0 +1,9 @@
+CHURRASCO NA BRASA — PWA
+
+Esta pasta contém os arquivos necessários para publicar o sistema como PWA.
+Para instalar no notebook, publique TODOS os arquivos desta pasta em um endereço HTTPS.
+Depois abra o endereço publicado no Chrome ou Edge e clique em “Instalar app”.
+
+O botão usa a janela nativa de instalação quando o navegador a disponibiliza. Se não aparecer, use o menu do navegador: Aplicativos > Instalar este site como aplicativo (Edge) ou Instalar página como app (Chrome).
+
+Importante: o PWA não pode ser instalado de forma confiável abrindo index.html diretamente como arquivo local. Os dados ficam no armazenamento do navegador/perfil usado; faça backups regularmente.
